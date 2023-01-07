@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Social Archives - technoMarket</title>
+	<atom:link href="https://soumayaakil.github.io/market/category/social/feed/" rel="self" type="application/rss+xml" />
+	<link>https://soumayaakil.github.io/market/category/social/</link>
+	<description></description>
+	<lastBuildDate>Thu, 25 Feb 2016 12:43:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Post format with link</title>
+		<link>https://soumayaakil.github.io/market/2016/02/25/2381/</link>
+					<comments>https://soumayaakil.github.io/market/2016/02/25/2381/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2016 12:43:30 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amazon like]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[bootstrap]]></category>
+		<category><![CDATA[buy it]]></category>
+		<category><![CDATA[clean design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[woocommerce]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/electro/?p=2381</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus.</p>
+<p>The post <a rel="nofollow" href="https://soumayaakil.github.io/market/2016/02/25/2381/">Post format with link</a> appeared first on <a rel="nofollow" href="https://soumayaakil.github.io/market">technoMarket</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you are looking for a developer on ThemeForest &#8211; check out the link</p>
+<p>The post <a rel="nofollow" href="https://soumayaakil.github.io/market/2016/02/25/2381/">Post format with link</a> appeared first on <a rel="nofollow" href="https://soumayaakil.github.io/market">technoMarket</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2016/02/25/2381/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

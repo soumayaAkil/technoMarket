@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>technoMarket</title>
+	<atom:link href="https://soumayaakil.github.io/market/feed/" rel="self" type="application/rss+xml" />
+	<link>https://soumayaakil.github.io/market</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Jan 2023 07:07:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>https://soumayaakil.github.io/market/2023/01/07/hello-world/</link>
+					<comments>https://soumayaakil.github.io/market/2023/01/07/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Sat, 07 Jan 2023 07:07:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://soumayaakil.github.io/market/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2023/01/07/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tech Terms you should know before your adventure</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/tech-terms-you-should-know-before-your-adventure/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/tech-terms-you-should-know-before-your-adventure/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:06:09 +0000</pubDate>
+				<category><![CDATA[Laptops]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=861</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/tech-terms-you-should-know-before-your-adventure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to build your first 4k ready Desktop PC</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/how-to-build-your-first-4k-ready-desktop-pc/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/how-to-build-your-first-4k-ready-desktop-pc/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:05:52 +0000</pubDate>
+				<category><![CDATA[Desktop PCs]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=863</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/how-to-build-your-first-4k-ready-desktop-pc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 10 Best Graphical Games for testing your Hardware</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/top-10-best-graphical-games-for-testing-your-hardware/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/top-10-best-graphical-games-for-testing-your-hardware/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:04:16 +0000</pubDate>
+				<category><![CDATA[PC Components]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=866</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/top-10-best-graphical-games-for-testing-your-hardware/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Tips to how find a place for your Wide screen Monitor</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/5-tips-to-how-find-a-place-for-your-wide-screen-monitor/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/5-tips-to-how-find-a-place-for-your-wide-screen-monitor/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:03:41 +0000</pubDate>
+				<category><![CDATA[Accessories]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=868</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/5-tips-to-how-find-a-place-for-your-wide-screen-monitor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why you should choose dedicated Desktop PC Computer</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/why-you-should-choose-dedicated-desktop-pc-computer/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/why-you-should-choose-dedicated-desktop-pc-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:02:05 +0000</pubDate>
+				<category><![CDATA[Desktop PCs]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=870</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/why-you-should-choose-dedicated-desktop-pc-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Most comfortable Gaming Seats for Playing Station</title>
+		<link>https://soumayaakil.github.io/market/2017/03/23/most-comfortable-gaming-seats-for-playing-station/</link>
+					<comments>https://soumayaakil.github.io/market/2017/03/23/most-comfortable-gaming-seats-for-playing-station/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 08:01:30 +0000</pubDate>
+				<category><![CDATA[Accessories]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/techmarket/?p=872</guid>
+
+					<description><![CDATA[A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC.]]></description>
+										<content:encoded><![CDATA[<p>A desktop computer is a computer that is designed to stay in a single location. It may be a tower or an all-in-one PC. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2017/03/23/most-comfortable-gaming-seats-for-playing-station/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Robot Wars &#8211; Now Closed &#8211; Post with Audio</title>
+		<link>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-audio-2/</link>
+					<comments>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-audio-2/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 13:32:08 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[amazon like]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[bootstrap]]></category>
+		<category><![CDATA[buy it]]></category>
+		<category><![CDATA[clean design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[woocommerce]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/electro/?p=2390</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus.]]></description>
+										<content:encoded><![CDATA[<p class="highlight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus mollis et.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum, leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</p>
+<p>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum. Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.</p>
+<div class="row">
+<div class="col-md-6">
+<p class="highlight-light">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</p>
+<p>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.
+    </p></div>
+<div class="col-md-6">
+<blockquote><p>Pellentesque sodales augue eget ultricies ultricies. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sagittis ultrices condimentum.</p>
+<p>Pellentesque ullamcorper libero in enim pellentesque lobortis. Praesent ut dui ac metus iaculis scelerisque at eget metus.</p></blockquote></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-audio-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Robot Wars &#8211; Now Closed &#8211; Post with Video</title>
+		<link>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-video/</link>
+					<comments>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-video/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 13:28:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[amazon like]]></category>
+		<category><![CDATA[Awesome]]></category>
+		<category><![CDATA[bootstrap]]></category>
+		<category><![CDATA[buy it]]></category>
+		<category><![CDATA[clean design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[video post format]]></category>
+		<category><![CDATA[woocommerce]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">http://demo2.transvelo.in/electro/?p=2388</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus.]]></description>
+										<content:encoded><![CDATA[<p class="highlight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus mollis et.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum, leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</p>
+<p>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum. Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.</p>
+<div class="row">
+<div class="col-md-6">
+<p class="highlight-light">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</p>
+<p>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.
+    </p></div>
+<div class="col-md-6">
+<blockquote><p>Pellentesque sodales augue eget ultricies ultricies. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sagittis ultrices condimentum.</p>
+<p>Pellentesque ullamcorper libero in enim pellentesque lobortis. Praesent ut dui ac metus iaculis scelerisque at eget metus.</p></blockquote></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Robot Wars &#8211; Now Closed &#8211; Post with Gallery</title>
+		<link>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-gallery-2/</link>
+					<comments>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-gallery-2/#respond</comments>
+		
+		<dc:creator><![CDATA[techno]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2016 05:41:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://demo2.transvelo.in/techmarket/?p=2431</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec]]></description>
+										<content:encoded><![CDATA[<p class="highlight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt, erat in malesuada aliquam, est erat faucibus purus, eget viverra nulla sem vitae neque. Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus mollis et.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem. Donec ultricies, lorem sed ultrices interdum, leo metus luctus sem, vel vulputate diam ipsum sed lorem. Donec tempor arcu nisl, et molestie massa scelerisque ut. Nunc at rutrum leo. Mauris metus mauris, tristique quis sapien eu, rutrum vulputate enim.</p>
+<p>Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum. Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.</p>
+<div class="row">
+<div class="col-md-6">
+<p class="highlight-light">Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum.</p>
+<p>Aliquam non tincidunt urna. Integer tincidunt nec nisl vitae ullamcorper. Proin sed ultrices erat. Praesent varius ultrices massa at faucibus. Aenean dignissim, orci sed faucibus pharetra, dui mi dignissim tortor, sit amet condimentum mi ligula sit amet augue. Pellentesque vitae eros eget enim mollis placerat.</p>
+</div>
+<div class="col-md-6">
+<blockquote><p>Pellentesque sodales augue eget ultricies ultricies. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sagittis ultrices condimentum.</p>
+<p>Pellentesque ullamcorper libero in enim pellentesque lobortis. Praesent ut dui ac metus iaculis scelerisque at eget metus.</p></blockquote>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://soumayaakil.github.io/market/2016/03/03/robot-wars-now-closed-post-with-gallery-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,90 @@
+
+---Downloaded files---
+The import files for: Techmarket were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/technoMarket
+Data file = C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/dummy-data.xml
+Widget file = C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/widgets.wie
+Customizer file = not defined!
+Redux files:
+techmarket_options -> C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Text - About - Imported
+Categories - No Title - Imported
+Techmarket Posts Carousel - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Imported
+
+Shop Sidebar 1 : 
+
+Techmarket Product Categories - No Title - Imported
+Techmarket Product Filter - Filters - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Shop Sidebar 2 : 
+
+Techmarket Products Carousel - Featured Products - Imported
+
+Product Filters : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+
+Home Sidebar : 
+
+Techmarket Banner - &lt;strong&gt;1000 mAh&lt;/strong&gt;&lt;br&gt;&lt;span&gt;Power Bank Pro&lt;/span&gt; - Imported
+Techmarket Banner - New Arrivals&lt;br&gt; in&lt;strong&gt; Accesories&lt;/strong&gt;&lt;br&gt; at Best prices - Imported
+Techmarket Banner - Catch Best&lt;br&gt;&lt;strong&gt;Deals&lt;/strong&gt; on &lt;br&gt;the Curved &lt;br&gt;Soundbars - Imported
+Techmarket Features Block - No Title - Imported
+Techmarket Posts Carousel - From the Blog - Imported
+Techmarket Products Carousel - Latest Products - Imported
+Techmarket Poster - &lt;strong&gt;Listen in&lt;/strong&gt; Brilliant&lt;br&gt; Color via  - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Footer Widgets : 
+
+Navigation Menu - Find it Fast - Imported
+Navigation Menu - &nbsp; - Imported
+Navigation Menu - Customer Care - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: techmarket_options finished successfully!
+
+---ocdi/after_import---
+
