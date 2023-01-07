@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /technoMarket/wp-admin/
+Allow: /technoMarket/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://localhost/technoMarket/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

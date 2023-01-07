@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Techmarket were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/technoMarket
+Data file = C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/dummy-data.xml
+Widget file = C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/widgets.wie
+Customizer file = not defined!
+Redux files:
+techmarket_options -> C:\laragon\www\technoMarket/wp-content/themes/techmarket/assets/dummy-data/techmarket/redux-options.json 
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Text - About - Widget already exists
+Categories - No Title - Widget already exists
+Techmarket Posts Carousel - Recent Posts - Imported
+Tag Cloud - Tags Clouds - Widget already exists
+
+Shop Sidebar 1 : 
+
+Techmarket Product Categories - No Title - Widget already exists
+Techmarket Product Filter - Filters - Widget already exists
+Techmarket Products Carousel - Latest Products - Widget already exists
+
+Shop Sidebar 2 : 
+
+Techmarket Products Carousel - Featured Products - Widget already exists
+
+Product Filters : 
+
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Brands - Widget already exists
+Filter Products by Attribute - Color - Widget already exists
+
+Home Sidebar : 
+
+Techmarket Banner - &lt;strong&gt;1000 mAh&lt;/strong&gt;&lt;br&gt;&lt;span&gt;Power Bank Pro&lt;/span&gt; - Widget already exists
+Techmarket Banner - New Arrivals&lt;br&gt; in&lt;strong&gt; Accesories&lt;/strong&gt;&lt;br&gt; at Best prices - Widget already exists
+Techmarket Banner - Catch Best&lt;br&gt;&lt;strong&gt;Deals&lt;/strong&gt; on &lt;br&gt;the Curved &lt;br&gt;Soundbars - Widget already exists
+Techmarket Features Block - No Title - Widget already exists
+Techmarket Posts Carousel - From the Blog - Widget already exists
+Techmarket Products Carousel - Latest Products - Widget already exists
+Techmarket Poster - &lt;strong&gt;Listen in&lt;/strong&gt; Brilliant&lt;br&gt; Color via  - Widget already exists
+Techmarket Products Carousel - Latest Products - Widget already exists
+
+Footer Widgets : 
+
+Navigation Menu - Find it Fast - Widget already exists
+Navigation Menu - &nbsp; - Widget already exists
+Navigation Menu - Customer Care - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: techmarket_options finished successfully!
+
+---ocdi/after_import---
+
